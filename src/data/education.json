@@ -1,0 +1,18 @@
+[
+    {
+        "timeframe" : "Sept 2024 — May 2026",
+        "link" : "https://www.nyu.edu/",
+        "title" : "New York University",
+        "subtitle" : "Masters in Computer Engineering",
+        "para" : "",
+        "orgs" : []
+    },
+    {
+        "timeframe" : "Aug 2018 — Apr 2022",
+        "link" : "https://www.iitdh.ac.in/indian-institute-technology-dharwad",
+        "title" : "Indian Institute of Technology, Dharwad",
+        "subtitle" : "Bachelors in Mechanical Engineering",
+        "para" : "",
+        "orgs" : ["Technical Lead - Career Development Cell", "Robotics Club"]
+    }
+]

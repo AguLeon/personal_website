@@ -1,0 +1,32 @@
+[
+    {
+        "link" : "https://akm-2018.github.io/ChessEngine_JS/",
+        "name" : "Chess Engine",
+        "para" : "Developed a Chess Engine using the Minimax algorithm with board-position and piece-value heuristics to calculate optimal moves. Improved efficiency with Move-Ordering and Alpha-Beta pruning, enabling it to defeat a 2000 ELO bot on Chess.com. Built a web-based front end for real-time gameplay and browser-based demonstrations.",
+        "src" : "/images/chess.webp"
+    },
+    {
+        "link" : "https://github.com/AkM-2018/redis-clone",
+        "name" : "Redis Clone",
+        "para" : "Designed a server-client architecture in C/C++ with event loops for efficient handling of multiple connections and asynchronous data processing. Implemented Hashtable and AVL trees to manage key-value pairs and sorted sets, supporting operations like read, insert, delete, and range queries within a Redis clone framework. ",
+        "src" : "/images/redis.png"
+    },
+    {
+        "link" : "https://github.com/AkM-2018/Whatsapp_chef/tree/main",
+        "name" : "Whatsapp Food Recipe Chatbot",
+        "para" : "Developed a WhatsApp chatbot for HackNagpur Hackathon to retrieve recipes based on a dish's image or name. The chatbot sends the input to a Flask backend, where a deep learning model trained on the Kaggle Food20 dataset identifies the dish. Relevant recipe links are scraped using Beautiful Soup and sent back to the user.",
+        "src" : "/images/burger.png"
+    },
+    {
+        "link" : "https://github.com/AkM-2018/VisionBasedObstacleAvoidance",
+        "name" : "Autonomous Drone Collision Avoidance",
+        "para" : "Designed an autonomous drone capable of navigating complex static environments by avoiding obstacles and reaching target destinations detected via Aruco markers. Used OpenCV to process depth camera images, binarizing them to distinguish obstacles from free paths. The drone adjusts its yaw to maximize the visible free path.",
+        "src" : "/images/drone.png"
+    },
+    {
+        "link" : "https://github.com/AkM-2018/Whatsapp_chef/tree/main",
+        "name" : "Locating target objects using a fleet of UAVs",
+        "para" : "Developed a UAV swarm for DRDO SASE's UAV Fleet Challenge at Inter IIT TechMeet 8.0. The project involved three drones with independent flight and communication to detect green cubes on a grassy field. Implemented robust connectivity for GPS coordinate sharing and used OpenCV and for object detection. Leveraged Dronekit API to integrate the flight controller with the onboard computer.",
+        "src" : "/images/drone2.png"
+    }
+]
