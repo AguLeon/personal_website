@@ -24,7 +24,7 @@ const About = () => {
           >
             New York University
           </a>
-          . My passion lies in backend engineering and designing resilient
+          . My passion lies in machine learning and designing resilient
           distributed systems that can handle real-world scalability and
           performance demands.
         </p>
