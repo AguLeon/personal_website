@@ -8,15 +8,15 @@ const About = () => {
       aria-label='About me'
     >
       <div className='sticky top-0 z-20 -mx-6 mb-4 w-screen bg-[#163321]/75 px-6 py-5 backdrop-blur md:-mx-12 md:px-12 lg:sr-only lg:relative lg:top-auto lg:mx-auto lg:w-full lg:px-0 lg:py-0 lg:opacity-0'>
-        <h2 className='text-sm font-bold uppercase tracking-widest text-emerald-100 lg:sr-only'>
+        <h2 className='text-sm font-bold uppercase tracking-widest text-gray-100 lg:sr-only'>
           About
         </h2>
       </div>
-      <div>
-        <p className='mb-4 text-justify text-emerald-100'>
+      <div className='selection:bg-gray-300 selection:text-slate-900'>
+        <p className='mb-4 text-justify text-gray-100'>
           I’m a masters student in Computer Engineering at{" "}
           <a
-            className='font-medium text-emerald-100 hover:text-emerald-300 focus-visible:text-emerald-300'
+            className='font-medium text-gray-100 hover:text-gray-300 focus-visible:text-gray-300'
             href='https://www.nyu.edu'
             target='_blank'
             rel='noreferrer noopener'
@@ -28,10 +28,10 @@ const About = () => {
           distributed systems that can handle real-world scalability and
           performance demands.
         </p>
-        <p className='mb-4 text-justify text-emerald-100'>
+        <p className='mb-4 text-justify text-gray-100'>
           Previously, I worked as a backend engineer at{" "}
           <a
-            className='font-medium text-emerald-100 hover:text-emerald-300 focus-visible:text-emerald-300'
+            className='font-medium text-gray-100 hover:text-gray-300 focus-visible:text-gray-300'
             href='https://www.gupshup.io/'
             target='_blank'
             rel='noreferrer noopener'
@@ -46,12 +46,12 @@ const About = () => {
           schedulers, and notifications, which significantly enhanced the
           product's functionality and user experience.
         </p>
-        <p className='mb-4 text-justify text-emerald-100'>
+        <p className='mb-4 text-justify text-gray-100'>
           Currently, I am broadening my skill set through courses in machine
           learning, embedded systems, and distributed systems. Outside of
           academics, I am actively enhancing my{" "}
           <a
-            className='font-medium text-emerald-100 hover:text-emerald-300 focus-visible:text-emerald-300'
+            className='font-medium text-gray-100 hover:text-gray-300 focus-visible:text-gray-300'
             href='https://akm-2018.github.io/ChessEngine_JS/'
             target='_blank'
             rel='noreferrer noopener'
