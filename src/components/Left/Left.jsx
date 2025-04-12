@@ -1,5 +1,6 @@
 import React from "react";
 import Socials from "./Socials/Socials";
+import resume from "../../pdf/resume.pdf";
 
 const Left = () => {
   return (
@@ -44,7 +45,7 @@ const Left = () => {
         </nav> */}
         <a
           class='inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-teal-300 focus-visible:text-teal-300 font-semibold text-slate-200 group/link text-base mt-8'
-          href='resume/resume.pdf'
+          href={resume}
           target='_blank'
           rel='noreferrer noopener'
           aria-label='View Full Resume (opens in a new tab)'
