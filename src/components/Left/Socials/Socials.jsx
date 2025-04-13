@@ -6,7 +6,7 @@ const Socials = () => {
       <li className='mr-5 shrink-0 text-xs'>
         <a
           className='block hover:text-slate-200'
-          href='mailto: akhil.manoj003@gmail.com'
+          href='mailto: leon.agustin@gmail.com'
           aria-label='Send an email'
           title='Email'
         >
@@ -27,7 +27,7 @@ const Socials = () => {
       <li className='mr-5 shrink-0 text-xs'>
         <a
           class='block hover:text-slate-200'
-          href='https://github.com/AkM-2018'
+          href='https://github.com/AguLeon'
           target='_blank'
           rel='noreferrer noopener'
           aria-label='GitHub (opens in a new tab)'
@@ -48,7 +48,7 @@ const Socials = () => {
       <li className='mr-5 shrink-0 text-xs'>
         <a
           className='block hover:text-slate-200'
-          href='https://www.linkedin.com/in/akhilmanoj003/'
+          href='https://www.linkedin.com/in/agustin-leon-nunez/'
           target='_blank'
           rel='noreferrer noopener'
           aria-label='LinkedIn (opens in a new tab)'
