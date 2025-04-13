@@ -1,34 +1,26 @@
 [
     {
-        "timeframe" : "Jun 2022 — Jun 2024",
-        "link" : "https://www.gupshup.io/",
-        "title" : "Software Development Engineer",
-        "subtitle" : "Gupshup",
-        "para" : "Led the development of the Ad-creation feature within the Gupshup platform, enabling multimedia Facebook ad creation. Designed a service for real-time ad insights benefiting 25+ business clients managing 2000+ ads. Developed a retargeting service for ad-engaged users via WhatsApp, ensuring scalability with Kafka listeners and Redis.",
-        "tech" : ["Java", "Python", "Springboot", "RabbitMq", "Redis", "Docker", "Meta-Marketing APIs", "AWS"]
+      "timeframe": "Jan 2022 – Sep 2024",
+      "link": "https://www.gba.cl/",
+      "title": "Associate Research Consultant",
+      "subtitle": "GBA Economic Consulting",
+      "para": "Led quantitative research for 15+ high-impact consulting projects across energy, telecom, transportation, intellectual property, and antitrust. Delivered presentations in English and Spanish to diverse stakeholders including C-level executives. Enabled clients to save over $10M through advanced data-driven strategy insights.",
+      "tech": ["Python", "R", "Stata", "Excel", "PowerPoint"]
     },
     {
-        "timeframe" : "Jan 2022 — Jun 2022",
-        "link" : "https://www.gupshup.io/",
-        "title" : "Software Development Engineer Intern",
-        "subtitle" : "Gupshup",
-        "para" : "Integrated various Gupshup apps into a unified application, enhancing user experience by enabling multiple instances within a profile. Introduced shared projects with collaboration features and role-based access control to manage user permissions effectively.",
-        "tech" : ["Java", "Python", "Springboot", "Docker"]
+      "timeframe": "Jul 2019 – Dec 2021",
+      "link": "https://www.mineduc.cl/",
+      "title": "Research & Data Analyst",
+      "subtitle": "Ministry of Education, Government of Chile",
+      "para": "Directed a data science team in developing a student dropout prediction model using unstructured, high-volume datasets from multiple government agencies. Boosted prediction accuracy from 50% to 80%, directly shaping national policy responses during the COVID-19 pandemic.",
+      "tech": ["Python", "Pandas", "Scikit-learn", "PostgreSQL"]
     },
     {
-        "timeframe" : "Jun 2021 — Aug 2021",
-        "link" : "https://axidio.com/",
-        "title" : "Full Stack Web Developer Intern",
-        "subtitle" : "Axidio",
-        "para" : "Contributed to developing a partner portal that allowed partners to track products, access materials, and communicate with stakeholders. Improved performance and maintainability by revamping front-end screens with efficient state management. Implemented portal authentication with both in-app and third-party login options",
-        "tech" : ["JavaScript", "ExpressJS", "ReactJS", "Redux", "MongoDB"]
-    },
-    {
-        "timeframe" : "Jun 2019 — Jul 2019",
-        "link" : "https://www.se.com/us/en/",
-        "title" : "AR/VR Developer Intern",
-        "subtitle" : "Schneider Electric",
-        "para" : "Developed an augmented reality application for Microsoft HoloLens, enabling sensor identification via QR codes and displaying real-time details on the screen. Built a calibration tool to align virtual overlays with sensors, enhancing interaction precision. Integrated APIs to fetch and display real-time sensor metrics on the Hololens screen",
-        "tech" : ["C#", "Unity", "Vuforia"]
+      "timeframe": "Mar 2018 – Aug 2018",
+      "link": "https://www.mintrab.gob.cl/",
+      "title": "Research Intern",
+      "subtitle": "Ministry of Labor, Government of Chile",
+      "para": "Enhanced national unemployment insurance simulations by upgrading labor market models and cash flow tracking for retirement benefits. Used econometric and statistical modeling techniques on large-scale administrative datasets, coordinating batched jobs on an in-house GPU server.",
+      "tech": ["R", "Python", "Econometrics", "SQL", "GPU cluster"]
     }
-]
+  ]  
