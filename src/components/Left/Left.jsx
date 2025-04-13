@@ -1,6 +1,7 @@
 import React from "react";
 import Socials from "./Socials/Socials";
 import resume from "../../pdf/resume.pdf";
+import Me from "../../assets/me.jpg";
 
 const Left = () => {
   return (
@@ -57,6 +58,11 @@ const Left = () => {
             </span>
           </span>
         </a>
+        <img
+          src={Me}
+          alt='Agustin Leon portrait'
+          className='mt-6 w-32 h-32 rounded-full object-cover border-2 border-gray-300 shadow-md'
+        />
       </div>
       <Socials />
     </header>
