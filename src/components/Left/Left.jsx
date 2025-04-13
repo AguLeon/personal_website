@@ -1,7 +1,7 @@
 import React from "react";
 import Socials from "./Socials/Socials";
 import resume from "../../pdf/resume.pdf";
-import Me from "../../assets/me.jpg";
+import Me from "../../assets/me.jpeg";
 
 const Left = () => {
   return (
