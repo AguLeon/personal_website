@@ -14,52 +14,19 @@ const About = () => {
       </div>
       <div className='selection:bg-gray-300 selection:text-slate-900'>
         <p className='mb-4 text-justify text-gray-100'>
-          I’m a masters student in Computer Engineering at{" "}
-          <a
+          I’m a master's student in Computer Engineering at <a
             className='font-medium text-gray-100 hover:text-gray-300 focus-visible:text-gray-300'
             href='https://www.nyu.edu'
             target='_blank'
             rel='noreferrer noopener'
             aria-label='New York University website (opens in a new tab)'
-          >
-            New York University
-          </a>
-          . My passion lies in machine learning and designing resilient
-          distributed systems that can handle real-world scalability and
-          performance demands.
+          >New York University</a>, focusing on machine learning and scalable systems. My academic path blends rigorous theoretical work with hands-on engineering, including building MLOps pipelines and cloud-based model deployment systems.
         </p>
         <p className='mb-4 text-justify text-gray-100'>
-          Previously, I worked as a backend engineer at{" "}
-          <a
-            className='font-medium text-gray-100 hover:text-gray-300 focus-visible:text-gray-300'
-            href='https://www.gupshup.io/'
-            target='_blank'
-            rel='noreferrer noopener'
-            aria-label='Gupshup (opens in a new tab)'
-          >
-            Gupshup
-          </a>{" "}
-          (June 2022–June 2024), where I developed a strong foundation in
-          addressing software challenges from both technical and business
-          perspectives. As a member of the CTX team, I contributed to building
-          key features, including ad-creation, real-time data retrieval,
-          schedulers, and notifications, which significantly enhanced the
-          product's functionality and user experience.
+          Prior to NYU, I worked in public and private sector research roles, most recently at GBA Economic Consulting, where I led quantitative analysis for high-impact industry projects. I also spearheaded a government machine learning initiative to predict school dropout risk during the pandemic, directly informing policy.
         </p>
         <p className='mb-4 text-justify text-gray-100'>
-          Currently, I am broadening my skill set through courses in machine
-          learning, embedded systems, and distributed systems. Outside of
-          academics, I am actively enhancing my{" "}
-          <a
-            className='font-medium text-gray-100 hover:text-gray-300 focus-visible:text-gray-300'
-            href='https://akm-2018.github.io/ChessEngine_JS/'
-            target='_blank'
-            rel='noreferrer noopener'
-            aria-label='Chess Engine website (opens in a new tab)'
-          >
-            Chess-Engine
-          </a>{" "}
-          project by introducing new features.
+          I’m currently deepening my skills through coursework in deep learning, robotics, and distributed systems, while building a playlist recommender platform using scalable ML workflows. My passion lies in building reliable, data-driven systems that are both technically sound and impactful in the real world.
         </p>
       </div>
     </section>
