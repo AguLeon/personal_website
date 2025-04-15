@@ -24,30 +24,30 @@ const About = () => {
           >
             New York University
           </a>
-          , focusing on <strong>machine learning</strong>, <strong>robotics</strong>, and{" "}
-          <strong>scalable systems</strong>. After five years in applied research and economic
+          , focusing on machine learning, robotics, and{" "}
+          scalable systems. After five years in applied research and economic
           consulting, I transitioned into the tech industry—motivated by a strong interest in{" "}
-          <strong>machine learning</strong> and <strong>data-driven decision-making</strong>.
+          machine learning and data-driven decision-making.
         </p>
 
         <p className='mb-4 text-justify text-gray-100'>
-          At NYU, I cemented this shift by becoming a <strong>Graduate Teaching Assistant</strong> for
-          the <strong>NYU Bridge Program</strong>, where I mentor students in <strong>C++</strong> and{" "}
-          <strong>data structures</strong>. I’m also building an organic playlist recommender using
-          scalable <strong>MLOps pipelines</strong>, while pursuing coursework in{" "}
-          <strong>deep learning</strong>, <strong>robotics</strong>, and <strong>distributed systems</strong>.
+          At NYU, I cemented this shift by becoming a Graduate Teaching Assistant for
+          the NYU Bridge Program, where I mentor students in C++ and{" "}
+          data structures. I’m also building an organic playlist recommender using
+          scalable MLOps pipelines, while pursuing coursework in{" "}
+          deep learning, robotics, and distributed systems.
         </p>
 
         <p className='mb-4 text-justify text-gray-100'>
-          Previously, I worked in both public and private sectors as a <strong>data scientist</strong> and{" "}
-          <strong>consultant</strong>, leading analysis for industry projects, launching a government ML
-          tool to predict school dropout risk, and developing <strong>econometric models</strong> to
+          Previously, I worked in both public and private sectors as a data scientist and{" "}
+          consultant, leading analysis for industry projects, launching a government ML
+          tool to predict school dropout risk, and developing econometric models to
           inform policy.
         </p>
 
         <p className='mb-4 text-justify text-gray-100'>
-          This background has given me a strong foundation in <strong>technical modeling</strong>,{" "}
-          <strong>implementation</strong>, and <strong>project management</strong>. Thanks to my consulting experience, I'm able to communicate effectively, breaking down complexity for
+          This background has given me a strong foundation in technical modeling,{" "}
+          implementation, and project management. Thanks to my consulting experience, I'm able to communicate effectively, breaking down complexity for
           both technical and non-technical audiences.
         </p>
 
@@ -57,13 +57,13 @@ const About = () => {
 
         <ul className='list-disc pl-6 text-gray-100 mb-4'>
           <li>
-            <strong>MLOps and ML infrastructure</strong> — how to design efficient systems that are able to deal with the real world and its complexities
+            MLOps and ML infrastructure — how to design efficient systems that are able to deal with the real world and its complexities
           </li>
           <li>
-            <strong>Federated Learning</strong> — privacy-aware and cost-effective scalable ML. I’m particularly interested in wearable devices
+            Federated Learning — privacy-aware and cost-effective scalable ML. I’m particularly interested in wearable devices
           </li>
           <li>
-            <strong>Computer Vision & Robotics</strong> — how can we implement Reinforcement Learning in a computationally feasible way?
+            Computer Vision & Robotics — how can we implement Reinforcement Learning in a computationally feasible way?
           </li>
         </ul>
       </div>
