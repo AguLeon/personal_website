@@ -14,7 +14,7 @@ const About = () => {
       </div>
       <div className='selection:bg-gray-300 selection:text-slate-900'>
         <p className='mb-4 text-justify text-gray-100'>
-          I’m a master's student in Computer Engineering at{" "}
+          I’m a master’s student in Computer Engineering at{" "}
           <a
             className='font-medium text-gray-100 hover:text-gray-300 focus-visible:text-gray-300'
             href='https://www.nyu.edu'
@@ -24,34 +24,49 @@ const About = () => {
           >
             New York University
           </a>
-          , focusing on <strong>machine learning</strong>, <strong>robotics</strong>, and <strong>scalable systems</strong>. After five successful years in applied research and economic consulting, I deliberately decided to fully transition into the technology industry—motivated by a strong interest in <strong>machine learning</strong> and <strong>data-centered decision-making</strong>.
+          , focusing on <strong>machine learning</strong>, <strong>robotics</strong>, and{" "}
+          <strong>scalable systems</strong>. After five years in applied research and economic
+          consulting, I transitioned into the tech industry—motivated by a strong interest in{" "}
+          <strong>machine learning</strong> and <strong>data-driven decision-making</strong>.
         </p>
 
         <p className='mb-4 text-justify text-gray-100'>
-          At NYU, I cemented this transition by becoming a <strong>Graduate Teaching Assistant</strong> for the Tandon Bridge Program, where I mentor students in <strong>C++ programming</strong> and <strong>data structures</strong>. I’m currently building an organic playlist recommender platform using scalable <strong>MLOps pipelines</strong> while continuing coursework in <strong>deep learning</strong>, <strong>robotics</strong>, and <strong>distributed systems</strong>.
+          At NYU, I cemented this shift by becoming a <strong>Graduate Teaching Assistant</strong> for
+          the <strong>NYU Bridge Program</strong>, where I mentor students in <strong>C++</strong> and{" "}
+          <strong>data structures</strong>. I’m also building an organic playlist recommender using
+          scalable <strong>MLOps pipelines</strong>, while pursuing coursework in{" "}
+          <strong>deep learning</strong>, <strong>robotics</strong>, and <strong>distributed systems</strong>.
         </p>
 
         <p className='mb-4 text-justify text-gray-100'>
-          Prior to NYU, I worked across both public and private sectors in <strong>data science</strong> and <strong>economic consulting</strong>. My work included leading quantitative analysis at GBA Economic Consulting for high-impact industry research, spearheading a government machine learning initiative to predict school dropout risk during the pandemic, and designing econometric models to guide policy.
+          Previously, I worked in both public and private sectors as a <strong>data scientist</strong> and{" "}
+          <strong>consultant</strong>, leading analysis for industry projects, launching a government ML
+          tool to predict school dropout risk, and developing <strong>econometric models</strong> to
+          inform policy.
         </p>
 
         <p className='mb-4 text-justify text-gray-100'>
-          This background gives me a strong foundation not just in modeling, but also in <strong>project management</strong> and <strong>cross-functional collaboration</strong>. As a consultant, I regularly delivered presentations and know how to break down complex concepts for both technical and non-technical audiences.
+          This background has given me a strong foundation in <strong>technical modeling</strong>,{" "}
+          <strong>implementation</strong>, and <strong>project management</strong>. Additionally, because
+          of my consulting experience, I'm able to communicate effectively, breaking down complexity for
+          both technical and non-technical audiences.
         </p>
 
-        <p className='mb-4 text-justify text-gray-100'>
-          I’m particularly drawn to the following areas within machine learning:
+        <p className='mb-2 text-justify text-gray-100'>
+          Currently, my main interests in machine learning are the following:
         </p>
 
         <ul className='list-disc pl-6 text-gray-100 mb-4'>
           <li>
-            <strong>MLOps and ML infrastructure</strong>, with a focus on cost-effective systems that are pragmatic and grounded in real-world requirements
+            <strong>MLOps and ML infrastructure</strong> — with a focus on cost-effective,
+            production-ready systems
           </li>
           <li>
-            <strong>Federated Learning</strong> for both privacy-aware and cost-effective ML systems
+            <strong>Federated Learning</strong> — for privacy-aware and efficient ML
           </li>
           <li>
-            <strong>Computer Vision and Robotics</strong>, particularly in how to apply Reinforcement Learning in a computationally-efficient way
+            <strong>Computer Vision & Robotics</strong> — especially Reinforcement Learning for
+            real-world applications
           </li>
         </ul>
       </div>
