@@ -47,8 +47,7 @@ const About = () => {
 
         <p className='mb-4 text-justify text-gray-100'>
           This background has given me a strong foundation in <strong>technical modeling</strong>,{" "}
-          <strong>implementation</strong>, and <strong>project management</strong>. Additionally, because
-          of my consulting experience, I'm able to communicate effectively, breaking down complexity for
+          <strong>implementation</strong>, and <strong>project management</strong>. Thanks to my consulting experience, I'm able to communicate effectively, breaking down complexity for
           both technical and non-technical audiences.
         </p>
 
