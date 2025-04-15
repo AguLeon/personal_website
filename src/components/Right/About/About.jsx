@@ -58,15 +58,13 @@ const About = () => {
 
         <ul className='list-disc pl-6 text-gray-100 mb-4'>
           <li>
-            <strong>MLOps and ML infrastructure</strong> — with a focus on cost-effective,
-            production-ready systems
+            <strong>MLOps and ML infrastructure</strong> — how to design efficient systems that are able to deal with the real world and its complexities
           </li>
           <li>
-            <strong>Federated Learning</strong> — for privacy-aware and efficient ML
+            <strong>Federated Learning</strong> — privacy-aware and cost-effective scalable ML. I’m particularly interested in wearable devices
           </li>
           <li>
-            <strong>Computer Vision & Robotics</strong> — especially Reinforcement Learning for
-            real-world applications
+            <strong>Computer Vision & Robotics</strong> — how can we implement Reinforcement Learning in a computationally feasible way?
           </li>
         </ul>
       </div>
