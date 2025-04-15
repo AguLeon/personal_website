@@ -12,7 +12,7 @@
       "link": "https://www.gba.cl/",
       "title": "Associate Research Consultant",
       "subtitle": "GBA Economic Consulting",
-      "para": "Led quantitative research for 15+ high-impact consulting projects across energy, telecom, transportation, intellectual property, and antitrust. Delivered presentations in English and Spanish to diverse stakeholders including C-level executives. Enabled clients to save over $10M through advanced data-driven strategy insights.",
+      "para": "Conducted quantitative research for 15+ high-impact consulting projects across energy, telecom, transportation, intellectual property, and antitrust. Delivered presentations in English and Spanish to diverse stakeholders including C-level executives. Enabled clients savings of over $10M through data-driven insights. Top clients included Mastercard, LATAM Airlines, Engie, among others.",
       "tech": ["Python", "R", "Stata", "Excel", "PowerPoint"]
     },
     {
@@ -20,7 +20,7 @@
       "link": "https://www.mineduc.cl/",
       "title": "Research & Data Analyst",
       "subtitle": "Ministry of Education, Government of Chile",
-      "para": "Directed a data science team in developing a student dropout prediction model using unstructured, high-volume datasets from multiple government agencies. Boosted prediction accuracy from 50% to 80%, directly shaping national policy responses during the COVID-19 pandemic.",
+      "para": "Led a data science team developing a student dropout prediction model integrating large datasets from multiple government departments. Boosted prediction accuracy from ~50% to over 80%, directly impacting national policy responses during the COVID-19 pandemic.",
       "tech": ["Python", "Pandas", "Scikit-learn", "PostgreSQL"]
     },
     {

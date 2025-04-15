@@ -20,7 +20,7 @@ const Projects = () => {
           Projects
         </h2>
       </div>
-      <div className='bg-[#020202]/60 backdrop-blur lg:mb-6'>
+      <div className='bg-[#313131]/60 backdrop-blur lg:mb-6'>
         <h2 className='hidden lg:block text-lg font-bold uppercase tracking-widest text-slate-200'>
           Projects
         </h2>

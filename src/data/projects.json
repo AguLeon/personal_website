@@ -35,7 +35,7 @@
     "status": "Past", 
       "link": "https://github.com/AguLeon/certify",
       "name": "Certify",
-      "para": "Developed a complete web application featuring listings, image uploads, geolocation clustering, search filters, user authentication, and reviews. Built REST APIs, implemented authorization, and deployed with production-ready tools.",
+      "para": "Developed a Yelp-like web application for car listings featuring image uploads, geolocation clustering, search filters, user authentication, and reviews. Built REST APIs, implemented authorization, and deployed with production-ready tools.",
       "tech": ["JavaScript", "Node.js", "Express.js", "MongoDB"],
       "src" : "./images/certify.png"
     }
