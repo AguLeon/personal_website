@@ -66,7 +66,7 @@ const Socials = () => {
           </svg>
         </a>
       </li>
-      <li className='mr-5 shrink-0 text-xs'>
+      {/* <li className='mr-5 shrink-0 text-xs'>
         <a
           className='block hover:text-slate-200'
           href='https://leetcode.com/u/AkM-2018/'
@@ -88,7 +88,7 @@ const Socials = () => {
             />
           </svg>
         </a>
-      </li>
+      </li> */}
     </ul>
   );
 };
