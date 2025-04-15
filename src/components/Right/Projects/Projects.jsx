@@ -39,6 +39,7 @@ const Projects = () => {
                     name={item.name}
                     link={item.link}
                     para={item.para}
+                    tech={item.tech}
                     src={item.src}
                   />
                 ))}

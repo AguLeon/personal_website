@@ -1,6 +1,7 @@
 import React from "react";
+import TechItem from "./TechItem/TechItem";
 
-const ProjectItem = ({ link, name, para, src }) => {
+const ProjectItem = ({ link, name, para, tech, src }) => {
   return (
     <li className='mb-12'>
       <div className='group relative grid gap-4 pb-1 transition-all sm:grid-cols-8 sm:gap-8 md:gap-4 lg:hover:!opacity-100 lg:group-hover/list:opacity-50'>
@@ -18,6 +19,11 @@ const ProjectItem = ({ link, name, para, src }) => {
             </a>
           </h3>
           <p className='mt-2 text-sm leading-normal text-justify'>{para}</p>
+          <ul className='mt-2 flex flex-wrap' aria-label='Technologies used'>
+            {tech.map((item) => {
+              return <TechItem name={item} />;
+            })}
+          </ul>
         </div>
         <img
           alt='alt text'
