@@ -14,7 +14,7 @@ const Experience = () => {
           Experience
         </h2>
       </div>
-      <div className='bg-[#264c36]/80 backdrop-blur px-6 py-4 rounded-md lg:mb-6'>
+      <div className='hidden lg:block bg-[#264c36]/80 backdrop-blur px-6 py-4 rounded-md mb-6'>
         <h2 className='hidden lg:block text-lg font-bold uppercase tracking-widest text-slate-200'>
           Experience
         </h2>
