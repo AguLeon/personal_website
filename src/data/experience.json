@@ -1,5 +1,13 @@
 [
     {
+      "timeframe": "Jan 2025 – Present",
+      "link": "https://engineering.nyu.edu/academics/programs/nyu-tandon-bridge",
+      "title": "Graduate Teaching Assistant",
+      "subtitle": "New York University",
+      "para": "The NYU Tandon Bridge program is a fast-paced 6-month long program that equips students with the fundamentals of computer science. My tasks include teaching, mentoring, and grading exams for 200+ students.",
+      "tech": ["C++", "Data structures", "Algorithms", "Operating Systems", "Discrete Math"]
+    },
+    {
       "timeframe": "Jan 2022 – Sep 2024",
       "link": "https://www.gba.cl/",
       "title": "Associate Research Consultant",

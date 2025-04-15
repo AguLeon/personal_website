@@ -1,5 +1,33 @@
 [
     {
+        "status": "Present", 
+      "timeframe": "Mar 2024 – Apr 2024",
+      "link": "https://github.com/AguLeon/MLOps_G47_SpotifyBuddies",
+      "title": "Spotify Buddies: an organic playlist recommender",
+      "subtitle": "NYU Tandon School of Engineering",
+      "para": "MLOps System Pipeline for an organic playlist recommender, including data pipeline, scalable training, deployment, and monitoring.",
+      "tech": ["PyTorch", "MLFlow", "Ray", "Docker", "Kubernetes", "AWS", "SageMaker"]
+    },
+    {
+        "status": "Past", 
+      "timeframe": "Mar 2024 – Apr 2024",
+      "link": "https://github.com/AguLeon/news-data-llm-with-lora",
+      "title": "LoRa with RoBERTa on AG-News dataset",
+      "subtitle": "NYU Tandon School of Engineering",
+      "para": "Fine tuned RoBERTa model using LoRa on the AG-News dataset. Restrictions: no more than 1 million trainable parameters. Final accuracy: 94.5%",
+      "tech": ["PyTorch", "Data Augmentation", "ResNets", "Computer Vision"]
+    },
+    {
+    "status": "Past", 
+      "timeframe": "Jan 2024 – Feb 2024",
+      "link": "https://github.com/AguLeon/ece-7123-project-1-CIFAR-10-classification",
+      "title": "ResNet on CIFAR-10 dataset",
+      "subtitle": "NYU Tandon School of Engineering",
+      "para": "Trained a ResNet with the restriction of <5 million parameters on the CIFAR-10 dataset, achieving 96% test accuracy.",
+      "tech": ["PyTorch", "Data Augmentation", "ResNets", "Computer Vision"]
+    },
+    {
+        "status": "Past",
       "timeframe": "Sep 2024 – Present",
       "link": "https://engineering.nyu.edu/academics/programs/computer-engineering-ms",
       "title": "ML Projects at NYU",
@@ -8,6 +36,7 @@
       "tech": ["Python", "PyTorch", "Tensorflow", "Docker", "Kubernetes", "MLFlow", "AWS"]
     },
     {
+    "status": "Past", 
       "timeframe": "Jan 2021 – Dec 2021",
       "link": "https://github.com/AguLeon/certify",
       "title": "Certify",
