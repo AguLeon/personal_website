@@ -5,7 +5,7 @@
       "name": "Spotify Buddies: an organic playlist recommender",
       "para": "MLOps System Pipeline for an organic playlist recommender, including data pipeline, scalable training, deployment, and monitoring.",
       "tech": ["PyTorch", "MLFlow", "Ray", "Docker", "Kubernetes", "AWS", "SageMaker"],
-      "src" : "./images/chess.webp"
+      "src" : "./images/lora_bert.png"
     },
     {
         "status": "Past", 
