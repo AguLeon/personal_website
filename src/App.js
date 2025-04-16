@@ -1,6 +1,7 @@
 import "./App.css";
 import Left from "./components/Left/Left";
 import Right from "./components/Right/Right";
+import "@fontsource/ibm-plex-sans"; // Defaults to 400 weight
 
 function App() {
   return (
