@@ -47,7 +47,7 @@ const About = () => {
 
         <p className='mb-4 text-justify text-gray-100'>
           This background has given me a strong foundation in technical modeling,{" "}
-          implementation, and project management. Thanks to my consulting experience, I'm able to communicate effectively, breaking down complexity for
+          model implementation, and project management. Also, thanks to my consulting experience, I'm able to communicate effectively and break down complexity for
           both technical and non-technical audiences.
         </p>
 
@@ -57,13 +57,13 @@ const About = () => {
 
         <ul className='list-disc pl-6 text-gray-100 mb-4'>
           <li>
-            MLOps and ML infrastructure — how to design efficient systems that are able to deal with the real world and its complexities
+            MLOps and ML infrastructure — how to design efficient systems that are able to deal with the real world
           </li>
           <li>
-            Federated Learning — privacy-aware and cost-effective scalable ML. I’m particularly interested in wearable devices
+            Federated Learning — privacy-aware and cost-effective scalable ML, particularly for wearable devices
           </li>
           <li>
-            Computer Vision & Robotics — how can we implement Reinforcement Learning in a computationally feasible way?
+            Computer Vision & Robotics — how to implement Reinforcement Learning in a computationally feasible way?
           </li>
         </ul>
       </div>
