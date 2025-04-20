@@ -18,7 +18,7 @@ const ProjectItem = ({ link, name, para, tech, src }) => {
               <span>{name}</span>
             </a>
           </h3>
-          <p className='mt-2 text-sm leading-normal text-justify'>{para}</p>
+          <p className='mt-2 text-sm leading-normal text-justify' dangerouslySetInnerHTML={{ __html: para }}>{para}</p>
           <ul className='mt-2 flex flex-wrap' aria-label='Technologies used'>
             {tech.map((item) => {
               return <TechItem name={item} />;

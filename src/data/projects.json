@@ -11,7 +11,7 @@
         "status": "Past", 
       "link": "https://github.com/AguLeon/LoRA_RoBERTa_AGNews",
       "name": "LoRa with RoBERTa on AG-News dataset",
-      "para": "Fine tuned RoBERTa model using LoRa on the AG-News dataset. Restrictions: no more than 1 million trainable parameters. Final accuracy: 94.5%",
+      "para": "Fine tuned RoBERTa model using LoRa on the AG-News dataset with <1M parameters. My submission was top 1 on a 400 participants <a href='https://www.kaggle.com/competitions/deep-learning-spring-2025-project-2/leaderboard' target='_blank' rel='noopener noreferrer' class='underline text-teal-400 hover:text-teal-300'>Kaggle competition</a>.",
       "tech": ["PyTorch", "Data Augmentation", "LLMs", "NLP", "Transformers"],
       "src" : "./images/lora_bert.png"
     },
