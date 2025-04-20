@@ -66,16 +66,16 @@ const Socials = () => {
           </svg>
         </a>
       </li>
-      {/* <li className='mr-5 shrink-0 text-xs'>
+      <li className='mr-5 shrink-0 text-xs'>
         <a
           className='block hover:text-slate-200'
-          href='https://leetcode.com/u/AkM-2018/'
+          href='https://www.kaggle.com/aguleon'
           target='_blank'
           rel='noreferrer noopener'
           aria-label='Leetcode (opens in a new tab)'
           title='Leetcode'
         >
-          <span className='sr-only'>Leetcode</span>
+          <span className='sr-only'>Kaggle</span>
           <svg
             xmlns='http://www.w3.org/2000/svg'
             width='1.4rem'
@@ -88,7 +88,7 @@ const Socials = () => {
             />
           </svg>
         </a>
-      </li> */}
+      </li>
     </ul>
   );
 };
