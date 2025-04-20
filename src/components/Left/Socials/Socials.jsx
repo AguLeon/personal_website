@@ -66,21 +66,22 @@ const Socials = () => {
           </svg>
         </a>
       </li>
-      {/* <li className='mr-5 shrink-0 text-xs'>
+      <li className='mr-5 shrink-0 text-xs'>
         <a
           className='block hover:text-slate-200'
           href='https://www.kaggle.com/aguleon'
           target='_blank'
           rel='noreferrer noopener'
-          aria-label='Leetcode (opens in a new tab)'
-          title='Leetcode'
+          aria-label='Kaggle (opens in a new tab)'
+          title='Kaggle'
         >
           <span className='sr-only'>Kaggle</span>
           <svg
             xmlns='http://www.w3.org/2000/svg'
-            width='1.4rem'
-            height='1.4rem'
             viewBox='0 0 24 24'
+            fill='currentColor'
+            className='h-6 w-6'
+            aria-hidden='true'
           >
             <path
               fill='currentColor'
@@ -88,7 +89,7 @@ const Socials = () => {
             />
           </svg>
         </a>
-      </li> */}
+      </li>
     </ul>
   );
 };
