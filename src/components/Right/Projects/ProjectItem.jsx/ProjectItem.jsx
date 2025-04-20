@@ -14,7 +14,7 @@ const ProjectItem = ({ link, name, para, tech, src }) => {
               target='_blank'
               rel='noreferrer noopener'
             >
-              <span className='absolute -inset-x-4 -inset-y-2.5 hidden rounded md:-inset-x-6 md:-inset-y-4 lg:block'></span>
+              {/* <span className='absolute -inset-x-4 -inset-y-2.5 hidden rounded md:-inset-x-6 md:-inset-y-4 lg:block'></span> */}
               <span>{name}</span>
             </a>
           </h3>
