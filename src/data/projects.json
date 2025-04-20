@@ -11,7 +11,7 @@
         "status": "Past", 
       "link": "https://github.com/AguLeon/LoRA_RoBERTa_AGNews",
       "name": "LoRa with RoBERTa on AG-News dataset",
-      "para": "Fine-tuned RoBERTa model using LoRa on the AG-News dataset. My submission was top 1 on a <a href=\"https://www.kaggle.com/competitions/deep-learning-spring-2025-project-2/leaderboard\" target=\"_blank\" rel=\"noopener noreferrer\"><strong><u>Kaggle competition</u></strong></a> that had +400 participants.",
+      "para": "Fine-tuned a <1M parameters RoBERTa model with LoRa on the AG-News dataset. My submission was top 1 on a <a href=\"https://www.kaggle.com/competitions/deep-learning-spring-2025-project-2/leaderboard\" target=\"_blank\" rel=\"noopener noreferrer\"><strong><u>Kaggle competition</u></strong></a> that had +400 participants.",
       "tech": ["PyTorch", "Data Augmentation", "LLMs", "NLP", "Transformers"],
       "src" : "./images/lora_bert.png"
     },
@@ -26,7 +26,7 @@
     {
         "status": "Past",
       "name": "ML Projects at NYU",
-      "para": "Designed and trained over 20 ML models including regressors, classifiers, ensembles, neural networks, and reinforcement learning agents. Focused on scalable MLOps pipelines and model serving efficiency for deployment on cloud platforms like AWS.",
+      "para": "Designed and trained over 20 ML models including regressors, classifiers, ensembles, neural networks, reinforcement learning, and self-supervised learning. Additionally, I've conducted several experiments on MLOps involving cloud, scalable training, deployment, and monitoring.",
       "tech": ["Python", "PyTorch", "Tensorflow", "Docker", "Kubernetes", "MLFlow", "AWS"],
       "src" : "./images/ml_nyu.png"
     },
