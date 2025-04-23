@@ -18,7 +18,7 @@
     {
       "timeframe": "Jul 2019 – Dec 2021",
       "link": "https://www.mineduc.cl/",
-      "title": "Research & Data Analyst",
+      "title": "Data Scientist",
       "subtitle": "Ministry of Education, Government of Chile",
       "para": "Led a data science team developing a student dropout prediction model integrating large datasets from multiple government departments. Boosted prediction accuracy from ~50% to over 80%, directly impacting national policy responses during the COVID-19 pandemic.",
       "tech": ["Python", "Pandas", "Scikit-learn", "PostgreSQL", "STATA", "R"]
