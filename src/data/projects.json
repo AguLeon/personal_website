@@ -24,6 +24,14 @@
       "src" : "./images/resnet_cifar10.png"
     },
     {
+    "status": "Past", 
+      "link": "https://github.com/AguLeon/robotic_arm_simulator",
+      "name": "Robot Arm Kinematics Simulator",
+      "para": "This project simulates the kinematics of a 6-DOF robotic arm such as the UR-5 robot.",
+      "tech": ["Robot Simulation", "MATLAB", "Forward Kinematics", "Inverse Kinematics"],
+      "src" : "./images/robotics_project1.png"
+    },
+    {
         "status": "Past",
       "name": "ML Projects at NYU",
       "para": "Designed and trained over 20 ML models including regressors, classifiers, ensembles, neural networks, reinforcement learning, and self-supervised learning. Additionally, I've conducted several experiments on MLOps involving cloud, scalable training, deployment, and monitoring.",
