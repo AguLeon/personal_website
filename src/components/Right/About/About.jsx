@@ -14,7 +14,7 @@ const About = () => {
       </div>
       <div className='selection:bg-gray-300 selection:text-slate-900'>
         <p className='mb-4 text-justify text-gray-100'>
-          I’m a master’s student in Computer Engineering at{" "}
+          Hi there, welcome! I’m a master’s student in Computer Engineering at{" "}
           <a
             className='font-medium text-gray-100 hover:text-gray-300 focus-visible:text-gray-300'
             href='https://www.nyu.edu'
