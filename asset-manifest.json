@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/personal_website/static/css/main.20135bea.css",
-    "main.js": "/personal_website/static/js/main.db5d534b.js",
+    "main.css": "/personal_website/static/css/main.17d9fb05.css",
+    "main.js": "/personal_website/static/js/main.aae8ef74.js",
     "static/media/me.jpeg": "/personal_website/static/media/me.6b3fcfa0ba127c108e16.jpeg",
     "static/media/resume.pdf": "/personal_website/static/media/resume.66e7ec58574c7755a768.pdf",
     "static/media/ibm-plex-sans-latin-400-normal.woff2": "/personal_website/static/media/ibm-plex-sans-latin-400-normal.3160b5c6767eb4c69c78.woff2",
@@ -17,11 +17,11 @@
     "static/media/ibm-plex-sans-vietnamese-400-normal.woff2": "/personal_website/static/media/ibm-plex-sans-vietnamese-400-normal.a9c0738f08c3b2b7c486.woff2",
     "static/media/ibm-plex-sans-vietnamese-400-normal.woff": "/personal_website/static/media/ibm-plex-sans-vietnamese-400-normal.754096d441f303edb8e0.woff",
     "index.html": "/personal_website/index.html",
-    "main.20135bea.css.map": "/personal_website/static/css/main.20135bea.css.map",
-    "main.db5d534b.js.map": "/personal_website/static/js/main.db5d534b.js.map"
+    "main.17d9fb05.css.map": "/personal_website/static/css/main.17d9fb05.css.map",
+    "main.aae8ef74.js.map": "/personal_website/static/js/main.aae8ef74.js.map"
   },
   "entrypoints": [
-    "static/css/main.20135bea.css",
-    "static/js/main.db5d534b.js"
+    "static/css/main.17d9fb05.css",
+    "static/js/main.aae8ef74.js"
   ]
 }
