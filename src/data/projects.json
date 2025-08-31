@@ -1,11 +1,20 @@
 [
+
     {
-        "status": "Present", 
+      "status": "Present",
+      "link": "https://github.com/AguLeon", 
+      "name": "MCP Benchmarking for Small Language Models (SLMs)",
+      "para": "Researching a task-completion benchmark for Model Context Protocol (MCP) agents powered by SLMs, advised by Prof. Fraida Fund (NYU). The benchmark evaluates tool-augmented agents across multi-step tasks with human-annotated action traces, measuring success rate, latency, tool-call efficiency, and cost. Includes a reproducible harness, datasets with step-by-step ground truth, and a web dashboard for run comparisons.",
+      "tech": ["Python", "FastAPI", "Ray", "Polars", "MLflow", "Docker", "Kubernetes", "Prometheus", "Grafana", "MCP servers", "OpenAI-compatible SLMs", "Next.js Dashboard"],
+      "src": "./images/mcp_benchmark.png"
+    },
+    {
+      "status": "Past",
       "link": "https://github.com/AguLeon/MLOps_G47_SpotifyBuddies",
-      "name": "Spotify Buddies: an organic playlist recommender",
-      "para": "MLOps System Pipeline for an organic playlist recommender, including data pipeline, scalable training, deployment, and monitoring.",
-      "tech": ["PyTorch", "MLFlow", "Ray", "Docker", "Kubernetes", "AWS", "SageMaker"],
-      "src" : "./images/spotify_buddies.png"
+      "name": "Spotify Buddies — Full ML Pipeline for Playlist Recommender",
+      "para": "Full-stack ML system recommending organic user-created playlists based on taste similarity, using a dual-model architecture: user pairing via KNN and playlist ranking via Bayesian Personalized Ranking (BPR). Experiments tracked with MLflow and HPO via Ray; CI/CD on Kubernetes with Docker, Prometheus, and FastAPI for serving, load-testing, and degradation monitoring.",
+      "tech": ["PyTorch", "MLflow", "Ray", "Docker", "Kubernetes", "FastAPI", "Prometheus"],
+      "src": "./images/spotify_buddies.png"
     },
     {
         "status": "Past", 
