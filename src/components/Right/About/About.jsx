@@ -32,7 +32,7 @@ const About = () => {
 
         <p className='mb-4 text-justify text-gray-100'>
           At NYU, I cemented this shift by serving as a Graduate Teaching Assistant for the
-          NYU Bridge Program, mentoring students in C++ and data structures. Recent projects:
+          NYU Bridge Program, mentoring students in C++ and data structures. A summary of my recent projects below:
         </p>
 
         <ul className='list-disc pl-6 text-gray-100 mb-4'>
@@ -90,14 +90,6 @@ const About = () => {
         </ul>
 
         <p className='mb-4 text-justify text-gray-100'>
-          At NYU, I cemented this shift by becoming a Graduate Teaching Assistant for
-          the NYU Bridge Program, where I mentor students in C++ and{" "}
-          data structures. Notable ML projects include an organic playlist recommender using
-          scalable MLOps pipelines and Bayesian Personalized Rankings, and also a project involving LoRa fine-tuning of a RoBERTa model (which made me win a Kaggle competition with over 400 participants!){" "}
-          Currently I'm working on a research paper with Professor Fraida Fund from NYU, about benchmarking MCPs used in combination with Small Language Models (SLM), to test their performance and measure latency reductions.
-        </p>
-
-        <p className='mb-4 text-justify text-gray-100'>
           Previously, I worked in both public and private sectors as a data scientist and{" "}
           consultant, leading analysis for industry projects, launching a government ML
           tool to predict school dropout risk, and developing econometric models to
@@ -119,7 +111,7 @@ const About = () => {
             MLOps and ML infrastructure — how to design efficient systems that are able to deal with the real world
           </li>
           <li>
-            Federated Learning — privacy-aware and cost-effective scalable ML, particularly for wearable devices
+            MCPs and Privacy — how to build reliable systems for applications such as AI-assistants, that safeguard users and their privacy?
           </li>
           <li>
             Computer Vision & Robotics — how to implement Reinforcement Learning in a computationally feasible way?
