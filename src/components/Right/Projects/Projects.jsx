@@ -5,7 +5,7 @@ import projectData from "../../../data/projects.json";
 const Projects = () => {
   const grouped = {
     Upcoming: projectData.filter((p) => p.status === "Upcoming"),
-    Inprogress: projectData.filter((p) => p.status === "In progress"),
+    "In progress": projectData.filter((p) => p.status === "In progress"),
     Completed: projectData.filter((p) => p.status === "Completed"),
   };
 
