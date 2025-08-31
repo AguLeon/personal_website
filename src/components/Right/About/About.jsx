@@ -27,15 +27,74 @@ const About = () => {
           , focusing on machine learning, robotics, and{" "}
           scalable systems. After five years in applied research and economic
           consulting, I transitioned into the tech industry—motivated by a strong interest in{" "}
-          machine learning and data-driven decision-making.
+          machine learning and data-driven solutions.
         </p>
+
+        <p className='mb-4 text-justify text-gray-100'>
+          At NYU, I cemented this shift by serving as a Graduate Teaching Assistant for the
+          NYU Bridge Program, mentoring students in C++ and data structures. Recent projects:
+        </p>
+
+        <ul className='list-disc pl-6 text-gray-100 mb-4'>
+          <li>
+            <strong>Spotify Buddies</strong> — full MLOps pipeline for organic playlist
+            recommendation (KNN user pairing + BPR ranking) with MLflow/Ray for experiments and
+            Docker/Kubernetes + FastAPI for serving and monitoring.{" "}
+            <a
+              className='font-medium text-gray-100 hover:text-gray-300 focus-visible:text-gray-300 underline'
+              href='https://github.com/AguLeon/MLOps_G47_SpotifyBuddies'
+              target='_blank'
+              rel='noreferrer noopener'
+              aria-label='Spotify Buddies repository (opens in a new tab)'
+            >
+              Repo
+            </a>
+          </li>
+          <li>
+            <strong>LoRA RoBERTa (AG-News)</strong> — 917k-parameter student model with
+            domain-adaptive augmentation; ranked 1st out of 400+ participants.{" "}
+            <a
+              className='font-medium text-gray-100 hover:text-gray-300 focus-visible:text-gray-300 underline'
+              href='https://github.com/ARNiroula/news-data-llm-with-lora'
+              target='_blank'
+              rel='noreferrer noopener'
+              aria-label='LoRA project repository (opens in a new tab)'
+            >
+              Repo
+            </a>{" "}
+            ·{" "}
+            <a
+              className='font-medium text-gray-100 hover:text-gray-300 focus-visible:text-gray-300 underline'
+              href='https://www.kaggle.com/competitions/deep-learning-spring-2025-project-2/leaderboard'
+              target='_blank'
+              rel='noreferrer noopener'
+              aria-label='Kaggle leaderboard (opens in a new tab)'
+            >
+              Leaderboard
+            </a>
+          </li>
+          <li>
+            <strong>MCP Benchmarking (SLMs)</strong> — ongoing research with{" "}
+            <a
+              className='font-medium text-gray-100 hover:text-gray-300 focus-visible:text-gray-300 underline'
+              href='https://engineering.nyu.edu/faculty/fraida-fund'
+              target='_blank'
+              rel='noreferrer noopener'
+              aria-label='Professor Fraida Fund profile (opens in a new tab)'
+            >
+              Prof. Fraida Fund
+            </a>{" "}
+            on a task-completion benchmark for MCP-enabled agents using small language models;
+            measuring success, latency, energy, and cost with a reproducible harness and dashboard.
+          </li>
+        </ul>
 
         <p className='mb-4 text-justify text-gray-100'>
           At NYU, I cemented this shift by becoming a Graduate Teaching Assistant for
           the NYU Bridge Program, where I mentor students in C++ and{" "}
-          data structures. I’m also building an organic playlist recommender using
-          scalable MLOps pipelines, while pursuing coursework in{" "}
-          deep learning, robotics, and distributed systems.
+          data structures. Notable ML projects include an organic playlist recommender using
+          scalable MLOps pipelines and Bayesian Personalized Rankings, and also a project involving LoRa fine-tuning of a RoBERTa model (which made me win a Kaggle competition with over 400 participants!){" "}
+          Currently I'm working on a research paper with Professor Fraida Fund from NYU, about benchmarking MCPs used in combination with Small Language Models (SLM), to test their performance and measure latency reductions.
         </p>
 
         <p className='mb-4 text-justify text-gray-100'>
