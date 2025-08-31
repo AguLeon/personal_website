@@ -1,5 +1,13 @@
 [
-    {
+  {
+    "timeframe": "May 2025 – Aug 2025",
+    "link": "https://nevara.ai/",
+    "title": "Machine Learning Engineer Intern",
+    "subtitle": "Nevara",
+    "para": "Led a team of 5 interns and delivered 4/4 product milestones on time. Architected and deployed an AI-powered sales coaching platform on AWS using FastAPI microservices with Supabase. Built LLM pipelines (prompt engineering, input compression, RAG, lightweight agents) with a feedback loop from user responses, reducing sales coach workload by ~90% (10 hours to 1 hour) via automated note generation and multi-call report synthesis.",
+    "tech": ["AWS", "FastAPI", "Supabase", "Python", "LLMs", "Prompt engineering", "RAG", "Agents", "Microservices"]
+  },
+  {
       "timeframe": "Jan 2025 – Present",
       "link": "https://engineering.nyu.edu/academics/programs/nyu-tandon-bridge",
       "title": "Graduate Teaching Assistant",
