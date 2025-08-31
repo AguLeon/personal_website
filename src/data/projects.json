@@ -1,14 +1,14 @@
 [
     {
-      "status": "Present",
+      "status": "In progress",
       "link": "https://github.com/AguLeon", 
       "name": "MCP Benchmarking for Small Language Models (SLMs)",
-      "para": "Researching a task-completion benchmark for Model Context Protocol (MCP) agents powered by SLMs, advised by Prof. Fraida Fund (NYU). The benchmark evaluates tool-augmented agents across multi-step tasks with human-annotated action traces, measuring success rate, latency, tool-call efficiency, and cost. Includes a reproducible harness, datasets with step-by-step ground truth, and a web dashboard for run comparisons.",
+      "para": "Working on a research paper about a task-completion benchmark for Model Context Protocol (MCP) agents powered by SLMs, advised by Prof. Fraida Fund (NYU). The benchmark evaluates tool-augmented agents across multi-step tasks with human-annotated action traces, measuring success rate, latency, energy, and cost. The project will include a reproducible harness, datasets with step-by-step ground truth, and a web dashboard for run comparisons.",
       "tech": ["Python", "FastAPI", "Ray", "Polars", "MLflow", "Docker", "Kubernetes", "Prometheus", "Grafana", "MCP servers", "OpenAI-compatible SLMs", "Next.js Dashboard"],
       "src": "./images/mcp_paper.png"
     },
     {
-      "status": "Past",
+      "status": "Completed",
       "link": "https://github.com/AguLeon/MLOps_G47_SpotifyBuddies",
       "name": "Spotify Buddies — Full ML Pipeline for Playlist Recommender",
       "para": "Full-stack ML system recommending organic user-created playlists based on taste similarity, using a dual-model architecture: user pairing via KNN and playlist ranking via Bayesian Personalized Ranking (BPR). Experiments tracked with MLflow and HPO via Ray; CI/CD on Kubernetes with Docker, Prometheus, and FastAPI for serving, load-testing, and degradation monitoring.",
@@ -16,7 +16,7 @@
       "src": "./images/spotify_buddies.png"
     },
     {
-        "status": "Past", 
+        "status": "Completed", 
       "link": "https://github.com/ARNiroula/news-data-llm-with-lora",
       "name": "LoRa with RoBERTa on AG-News dataset",
       "para": "Fine-tuned a <1M parameters RoBERTa model with LoRa on the AG-News dataset, using domain adaptation data augmentation. My submission was ranked top 1 on a <a href=\"https://www.kaggle.com/competitions/deep-learning-spring-2025-project-2/leaderboard\" target=\"_blank\" rel=\"noopener noreferrer\"><strong><u>Kaggle competition</u></strong></a> that had +400 participants.",
@@ -24,7 +24,7 @@
       "src" : "./images/lora_bert.png"
     },
     {
-    "status": "Past", 
+    "status": "Completed", 
       "link": "https://github.com/AguLeon/ece-7123-project-1-CIFAR-10-classification",
       "name": "ResNet on CIFAR-10 dataset",
       "para": "Trained a ResNet with the restriction of <5 million parameters on the CIFAR-10 dataset, achieving 96% test accuracy.",
@@ -32,7 +32,7 @@
       "src" : "./images/resnet_cifar10.png"
     },
     {
-    "status": "Past", 
+    "status": "Completed", 
       "link": "https://github.com/AguLeon/robotic_arm_simulator",
       "name": "Robot Arm Kinematics Simulator",
       "para": "This project simulates the kinematics of a 6-DOF robotic arm such as the UR-5 robot.",
@@ -40,14 +40,7 @@
       "src" : "./images/robotics_project1.png"
     },
     {
-        "status": "Past",
-      "name": "ML Projects at NYU",
-      "para": "Designed and trained over 20 ML models including regressors, classifiers, ensembles, neural networks, reinforcement learning, and self-supervised learning. Additionally, I've conducted several experiments on MLOps involving cloud, scalable training, deployment, and monitoring.",
-      "tech": ["Python", "PyTorch", "Tensorflow", "Docker", "Kubernetes", "MLFlow", "AWS"],
-      "src" : "./images/ml_nyu.png"
-    },
-    {
-    "status": "Past", 
+    "status": "Completed", 
       "link": "https://github.com/AguLeon/certify",
       "name": "Certify",
       "para": "Developed a Yelp-like web application for car listings featuring image uploads, geolocation clustering, search filters, user authentication, and reviews. Built REST APIs, implemented authorization, and deployed with production-ready tools.",

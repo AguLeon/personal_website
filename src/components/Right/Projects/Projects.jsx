@@ -5,8 +5,8 @@ import projectData from "../../../data/projects.json";
 const Projects = () => {
   const grouped = {
     Upcoming: projectData.filter((p) => p.status === "Upcoming"),
-    Present: projectData.filter((p) => p.status === "Present"),
-    Past: projectData.filter((p) => p.status === "Past"),
+    Inprogress: projectData.filter((p) => p.status === "In progress"),
+    Completed: projectData.filter((p) => p.status === "Completed"),
   };
 
   return (
@@ -26,7 +26,7 @@ const Projects = () => {
         </h2>
       </div>
       <div>
-        {["Upcoming", "Present", "Past"].map((group) =>
+        {["Upcoming", "In progress", "Completed"].map((group) =>
           grouped[group].length > 0 ? (
             <div key={group} className='mb-10'>
               <h3 className='text-md font-semibold uppercase tracking-wider text-slate-300 mb-4'>
