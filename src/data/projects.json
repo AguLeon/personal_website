@@ -1,12 +1,11 @@
 [
-
     {
       "status": "Present",
       "link": "https://github.com/AguLeon", 
       "name": "MCP Benchmarking for Small Language Models (SLMs)",
       "para": "Researching a task-completion benchmark for Model Context Protocol (MCP) agents powered by SLMs, advised by Prof. Fraida Fund (NYU). The benchmark evaluates tool-augmented agents across multi-step tasks with human-annotated action traces, measuring success rate, latency, tool-call efficiency, and cost. Includes a reproducible harness, datasets with step-by-step ground truth, and a web dashboard for run comparisons.",
       "tech": ["Python", "FastAPI", "Ray", "Polars", "MLflow", "Docker", "Kubernetes", "Prometheus", "Grafana", "MCP servers", "OpenAI-compatible SLMs", "Next.js Dashboard"],
-      "src": "./images/mcp_benchmark.png"
+      "src": "./images/mcp_paper.png"
     },
     {
       "status": "Past",
